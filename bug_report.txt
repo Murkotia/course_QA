@@ -1,0 +1,12 @@
+Summery (Title):
+Preconditions:
+Steps:
+	1.
+	2.
+	3...
+Expected result:
+Actual result:
+Severity:
+Priority:
+Type:
+Attachments:
